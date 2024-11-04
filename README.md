@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHee12&layout=compact)
