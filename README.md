@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/csharp-2396F3?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/yolo-2C2C2C?style=for-the-badge&logo=yolo&logoColor=white">
+  <img src="https://img.shields.io/badge/api-003366?style=for-the-badge&logo=api&logoColor=white">
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHee12&layout=compact)
