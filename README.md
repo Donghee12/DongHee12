@@ -46,8 +46,18 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DongHee12&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongHee12&layout=compact&theme=github_dark&hide_border=true" width="45%" />
+  <!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHee12&layout=compact&theme=github_dark)
+
+<!-- 일반 Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DongHee12&show_icons=true&theme=github_dark)
+
+<!-- 트로피 스타일 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=DongHee12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 커밋 연속 기록 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DongHee12&theme=github-dark)](https://git.io/streak-stats)
+
 </p>
 
 ---
