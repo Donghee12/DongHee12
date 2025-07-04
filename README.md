@@ -45,19 +45,12 @@
   <h2>📊 GitHub 활동 통계</h2>
 </div>
 
+<div align="center">
+  <h2>💻 가장 많이 사용한 언어</h2>
+</div>
+
 <p align="center">
-  <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHee12&layout=compact&theme=github_dark)
-
-<!-- 일반 Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DongHee12&show_icons=true&theme=github_dark)
-
-<!-- 트로피 스타일 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=DongHee12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- 커밋 연속 기록 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DongHee12&theme=github-dark)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongHee12&layout=compact&theme=github_dark" />
 </p>
 
 ---
